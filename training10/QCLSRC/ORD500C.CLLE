@@ -1,4 +1,6 @@
 000100161209             PGM        PARM(&ORD &PATH)
+000101170621             /* vive le difference */
+000102170621
 000200161130             DCL        VAR(&ORD) TYPE(*CHAR) LEN(5)
 000201161130             DCL        VAR(&FILENAME) TYPE(*CHAR) LEN(50)
 000202161209             DCL        VAR(&PATH) TYPE(*CHAR) LEN(100)
